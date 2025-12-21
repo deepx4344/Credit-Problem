@@ -43,7 +43,9 @@ Bash
 ./credit
 Input your credit card number => 378282246310005
 AMEX
+
 🏗 Implementation Details
+
 The project demonstrates several core C concepts:
 
 Structs: Used requiredResultFormat to return both the string representation and the length of the card number from a single function.
